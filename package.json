@@ -1,0 +1,13 @@
+{
+  "name": "autonomous-researcher",
+  "version": "1.0.0",
+  "description": "Autonomous Multi-Agent Research Assistant",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
